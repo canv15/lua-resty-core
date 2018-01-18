@@ -107,6 +107,8 @@ API Implemented
 [Back to TOC](#table-of-contents)
 
 ## resty.core.hash
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fcanv15%2Flua-resty-core.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fcanv15%2Flua-resty-core?ref=badge_shield)
+
 
 * [ngx.md5](https://github.com/openresty/lua-nginx-module#ngxmd5)
 * [ngx.md5_bin](https://github.com/openresty/lua-nginx-module#ngxmd5_bin)
@@ -353,3 +355,7 @@ See Also
 
 [Back to TOC](#table-of-contents)
 
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fcanv15%2Flua-resty-core.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fcanv15%2Flua-resty-core?ref=badge_large)
